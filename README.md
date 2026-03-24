@@ -16,7 +16,7 @@ Structured analysis protocol for evaluating new technologies before they touch y
 
 ```bash
 # Clone into your skills directory
-git clone https://github.com/quirkyquirk/check-yoself.git ~/.openclaw/skills/check-yoself
+git clone https://github.com/ltpetemav/check-yoself.git ~/.openclaw/skills/check-yoself
 ```
 
 ### Cursor / Windsurf
@@ -133,7 +133,7 @@ check-yoself/
 
 ## Credits
 
-Built by [QuirkyQuirk](https://github.com/quirkyquirk) for the [OpenClaw](https://openclaw.ai) ecosystem.
+Built by [ltpetemav](https://github.com/ltpetemav) for the [OpenClaw](https://openclaw.ai) ecosystem.
 
 Inspired by the [PRISM](https://github.com/jeremyknows/PRISM) multi-agent review protocol by [@jeremyknows](https://github.com/jeremyknows).
 
